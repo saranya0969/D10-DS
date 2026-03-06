@@ -8,3 +8,4 @@ def movie_tickets(price,quantity):
     else:
         print("thank you")
 movie_tickets(int(input("enter price of tickets: ")),(int(input("enter the qantity: "))))
+print("hi")
